@@ -87,6 +87,7 @@ Among all evaluated models, **Support Vector Regression (SVR)** delivered the be
 ---
 
 ## 📁 Repository Structure
-- `notebook/` – Jupyter notebook containing simulation and ML implementation  
-- `images/` – Graphs and result visualizations  
-- `README.md` – Project documentation  
+- `data/` – Simulation-generated dataset (`simulation_data.csv`)
+- `notebook/` – Jupyter notebook containing simulation and ML implementation
+- `images/` – Model comparison graphs and visualizations
+- `README.md` – Project documentation
