@@ -90,7 +90,3 @@ Among all evaluated models, **Support Vector Regression (SVR)** delivered the be
 - `notebook/` – Jupyter notebook containing simulation and ML implementation  
 - `images/` – Graphs and result visualizations  
 - `README.md` – Project documentation  
-
----
-
-### 🎯 Status: Assignment Completed Successfully ✅
